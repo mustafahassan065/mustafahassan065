@@ -1,7 +1,7 @@
 
 
 Hi , I am Mustafa hassan
-- 🌱 I’m currently learning python-flask
+- 🌱 I’m currently learning python-django-flask
 - 👯 I’m looking to collaborate in web development
 - 🤔 I have six month experience in frontend web development(html,css and javascript)
 - 💬 I am also doing software engineering in GCUF
