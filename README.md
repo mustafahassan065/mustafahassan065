@@ -1,8 +1,13 @@
+👋 Hi there! I'm a Full Stack Developer
+🔹 2+ years of experience in web development
+🔹 Passionate about building scalable and user-friendly applications
 
+🛠 Tech Stack
+🌐 Frontend: HTML, CSS, JavaScript, React, Tailwind
+🖥 Backend: Python, Django, Flask
+💾 Database: SQLite, PostgreSQL, MySQL
+🛠 Tools & Other: Git, GitHub, REST APIs
 
-Hi , I am Mustafa hassan
-- 🌱 I’m currently learning python-django-flask
-- 👯 I’m looking to collaborate in web development
-- 🤔 I have six month experience in frontend web development(html,css and javascript)
-- 💬 I am also doing software engineering in GCUF
-- 📫 I am here to share my experience in coding and to collaborate with others who share my passion for programming and technology.
+🚀 Always learning and exploring new technologies!
+
+💡 Open to collaborations on exciting projects! Let's connect.
